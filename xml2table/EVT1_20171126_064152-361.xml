@@ -1,0 +1,14 @@
+<annotation>
+	<folder>xml2table</folder>
+	<filename>EVT1_20171126_064152-361.jpg</filename>
+	<path>D:\Research\xml2table\EVT1_20171126_064152-361.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
